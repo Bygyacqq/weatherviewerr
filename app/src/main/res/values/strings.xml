@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">weatherviewerr</string>
+    <string name="api_key">8fce76c4ae639b43514e5b0ba7ff40d8</string>
+    <string name="web_services_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">Invalid Url</string>
+</resources>
