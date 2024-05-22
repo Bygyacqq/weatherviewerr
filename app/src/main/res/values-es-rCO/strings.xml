@@ -7,4 +7,6 @@
     <string name="hint_text">Ingrese ciudad (ej. Boston, EE. UU.)</string>
     <string name="read_error">No se pueden leer los datos meteorológicos</string>
     <string name="connect_error">No se puede conectar a OpenWeatherMap.org</string>
+    <string name="high_temp">Alto: %s</string>
+    <string name="low_temp">Bajo: %s</string>
 </resources>
