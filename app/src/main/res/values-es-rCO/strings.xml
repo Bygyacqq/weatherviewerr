@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">weatherviewerr</string>
+    <string name="Invalid_Url">Enlace inválido</string>
+    <string name="weather_cindition_image">Una representación g´rafica de las condiciones climáticas.</string>
+    <string name="humidity">Humedad: %s</string>
+    <string name="hint_text">Ingrese ciudad (ej. Boston, EE. UU.)</string>
+    <string name="read_error">No se pueden leer los datos meteorológicos</string>
+    <string name="connect_error">No se puede conectar a OpenWeatherMap.org</string>
 </resources>

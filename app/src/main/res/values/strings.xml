@@ -2,5 +2,14 @@
     <string name="app_name">weatherviewerr</string>
     <string name="api_key">8fce76c4ae639b43514e5b0ba7ff40d8</string>
     <string name="web_services_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
-    <string name="invalid_url">Invalid Url</string>
+    <string name="">Invalid Url</string>
+    <string name="Invalid_Url">Invalid Url</string>
+    <string name="weather_cindition_image">A graphical representation of the weather condtitions</string>
+    <string name="high_temp">High: %s</string>
+    <string name="low_temp">Low: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="hint_text">Enter city (e. g, Boston, MA, US)</string>
+    <string name="read_error">Unable to read weather data</string>
+    <string name="connect_error">Unable to connect to OpenWeatherMap.org</string>
 </resources>
