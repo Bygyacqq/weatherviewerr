@@ -12,4 +12,5 @@
     <string name="read_error">Unable to read weather data</string>
     <string name="connect_error">Unable to connect to OpenWeatherMap.org</string>
     <string name="done_button" translatable="false">Done button</string>
+    <string name="large_text">Here goes text</string>
 </resources>
