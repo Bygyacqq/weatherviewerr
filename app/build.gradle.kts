@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "finalproject.weatherviewerr"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "finalproject.weatherviewerr"
         minSdk = 29
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 

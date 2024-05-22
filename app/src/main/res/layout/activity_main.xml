@@ -18,13 +18,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="top|end"
+            android:layout_marginStart="@dimen/fab_margin"
             android:layout_marginTop="@dimen/fab_margin_top"
             android:layout_marginEnd="@dimen/fab_margin"
             android:layout_marginBottom="@dimen/fab_margin"
-            android:layout_marginStart="@dimen/fab_margin"
             android:clickable="true"
             android:contentDescription="@string/done_button"
-            android:src="@drawable/done"/>
+            android:src="@drawable/done" />
+
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
